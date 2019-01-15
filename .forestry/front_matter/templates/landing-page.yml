@@ -68,6 +68,7 @@ fields:
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
+  default: true
 - type: image_gallery
   name: partners
   label: Partner Logos
@@ -80,5 +81,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: color
+  config:
+    color_format: Hex
+  default: "#19225C"
+- type: text
 pages:
 - index.md
