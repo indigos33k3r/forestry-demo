@@ -11,10 +11,9 @@ services:
 - description: Collection of Photoshop and Graphic Design Tutorials and How-to Guides.
   heading: 'Photoshop Tutorials '
   icon: "/uploads/2019/01/15/images.jpg"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Fresh, exciting and collaborative designs for any website need.
+  heading: 'Webpage Design '
+  icon: "/uploads/2019/01/15/33592.png"
 sub_heading: 'Never be afraid to share your dreams with the world, because there''s
   nothing the world loves more than the taste of really sweet dreams. '
 textline: Who are you?! Who am I!?
